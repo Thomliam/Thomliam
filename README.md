@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thomliam
+- 👀 I’m interested in Geospatial Analysis
+- 🌱 I’m currently learning Environmental Management
+- 💞️ I’m looking to collaborate on datasets
